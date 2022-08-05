@@ -12,6 +12,15 @@ namespace UdemyExercises
             int int1 = Int32.Parse(stringForInt); 
             Console.WriteLine(stringForFloat);
             Console.WriteLine(stringForInt);
+
+            string string1;
+            Console.WriteLine("Please enter your name and press enter");
+            string1 = Console.ReadLine();
+            Console.WriteLine(string1.ToUpper());
+            Console.WriteLine(string1.ToLower());
+            Console.WriteLine(string1.Trim());
+            Console.WriteLine(string1.Substring(2));
+            
         }
     }
 }
