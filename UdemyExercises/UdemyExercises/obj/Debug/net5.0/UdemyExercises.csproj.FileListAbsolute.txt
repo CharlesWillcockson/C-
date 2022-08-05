@@ -1,0 +1,16 @@
+C:\Users\sajus\source\repos\UdemyExercises\UdemyExercises\bin\Debug\net5.0\UdemyExercises.exe
+C:\Users\sajus\source\repos\UdemyExercises\UdemyExercises\bin\Debug\net5.0\UdemyExercises.deps.json
+C:\Users\sajus\source\repos\UdemyExercises\UdemyExercises\bin\Debug\net5.0\UdemyExercises.runtimeconfig.json
+C:\Users\sajus\source\repos\UdemyExercises\UdemyExercises\bin\Debug\net5.0\UdemyExercises.runtimeconfig.dev.json
+C:\Users\sajus\source\repos\UdemyExercises\UdemyExercises\bin\Debug\net5.0\UdemyExercises.dll
+C:\Users\sajus\source\repos\UdemyExercises\UdemyExercises\bin\Debug\net5.0\UdemyExercises.pdb
+C:\Users\sajus\source\repos\UdemyExercises\UdemyExercises\obj\Debug\net5.0\UdemyExercises.csproj.AssemblyReference.cache
+C:\Users\sajus\source\repos\UdemyExercises\UdemyExercises\obj\Debug\net5.0\UdemyExercises.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sajus\source\repos\UdemyExercises\UdemyExercises\obj\Debug\net5.0\UdemyExercises.AssemblyInfoInputs.cache
+C:\Users\sajus\source\repos\UdemyExercises\UdemyExercises\obj\Debug\net5.0\UdemyExercises.AssemblyInfo.cs
+C:\Users\sajus\source\repos\UdemyExercises\UdemyExercises\obj\Debug\net5.0\UdemyExercises.csproj.CoreCompileInputs.cache
+C:\Users\sajus\source\repos\UdemyExercises\UdemyExercises\obj\Debug\net5.0\UdemyExercises.dll
+C:\Users\sajus\source\repos\UdemyExercises\UdemyExercises\obj\Debug\net5.0\refint\UdemyExercises.dll
+C:\Users\sajus\source\repos\UdemyExercises\UdemyExercises\obj\Debug\net5.0\UdemyExercises.pdb
+C:\Users\sajus\source\repos\UdemyExercises\UdemyExercises\obj\Debug\net5.0\UdemyExercises.genruntimeconfig.cache
+C:\Users\sajus\source\repos\UdemyExercises\UdemyExercises\obj\Debug\net5.0\ref\UdemyExercises.dll
